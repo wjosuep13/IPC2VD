@@ -1,0 +1,4 @@
+Commit: se entiende como una nueva version o modificacion del proyecto
+Merge:se entiende como la union de dos objetos
+Diferencias pull y push:
+push agrega una nueva hoja o nodo al arbol y pull extrae de un arbol
